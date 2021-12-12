@@ -5,8 +5,8 @@ language used:python
 There are two types in our project
 =================================================
 1.object detection 
-2.object tracking
-for object detection main.py contaians all the code in it 
+---------------------------------------------2.object tracking
+--------------------------------------------------------for object detection main.py contaians all the code in it 
 datasets are:
                 1.detect.names
                 2.frozen_inference_graph
